@@ -1,1 +1,1 @@
-# repo_cleanup
+# repo_cleanup I was able to add systimatic elements to all of the body; header, first section, section and footer. I also was able to remove a few pieces of code that would clean up the HTML and CSS file. 
